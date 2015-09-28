@@ -1,0 +1,14 @@
+/*
+Theme Name: Simplest Theme Ever
+Author: Baron Watts
+Author URI: http://baronwatts.com
+Version: 0.1
+Description: The most basic theme possible
+License: GPLv3
+*/
+
+body{
+	background: #ccc;
+	font-family: Lato;
+	
+}
